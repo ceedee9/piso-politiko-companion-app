@@ -1,4 +1,4 @@
-# Piso Politiko — Companion App
+# Piso Politiko, Companion App
 
 A digital companion app built for **Piso Politiko**, a physical board game designed by Akunawa Studio where 4 players compete as aspiring politicians navigating the world of Philippine politics — balancing Coins (wealth) and Reputation (public trust) as they move across a 40-tile board.
 
@@ -12,14 +12,14 @@ In Piso Politiko, players move around the board rolling dice, landing on tiles w
 
 Built to speed up and automate the more tedious parts of physical play:
 
-- 🎲 **Digital dice roller** — replaces physical dice for movement and tile resolution
-- 💰 **Resource tracker** — tracks each player's Coins and Reputation in real time
-- 🛒 **In-game shop** — for spending resources on assets/upgrades
-- ⚙️ **Automated tile effects & scoring** — resolves the effect of whichever tile a player lands on and calculates final scores automatically, removing manual rule look-ups
-- 🧑 **Character picker** — choose from the game's political roles
-- ✏️ **Custom player names**
-- ⚔️ **Player-vs-player resource attacks** — steal or reduce another player's Coins/Reputation, powering the game's interactive PVP cards
-- 📖 **How to Play screen** — in-app rules reference for new players
+-  **Digital dice roller** — replaces physical dice for movement and tile resolution
+-  **Resource tracker** — tracks each player's Coins and Reputation in real time
+-  **In-game shop** — for spending resources on assets/upgrades
+-  **Automated tile effects & scoring** — resolves the effect of whichever tile a player lands on and calculates final scores automatically, removing manual rule look-ups
+-  **Character picker** — choose from the game's political roles
+-  **Custom player names**
+-  **Player-vs-player resource attacks** — steal or reduce another player's Coins/Reputation, powering the game's interactive PVP cards
+-  **How to Play screen** — in-app rules reference for new players
 
 ## Tech Stack
 
