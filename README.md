@@ -32,6 +32,6 @@ The compiled APK is available under [Releases](../../releases) — download the 
 
 ## Team
 
-Built by **Akunawa Studio**.
+Built by **Bakunawa Studio**.
 
-*(add teammate names here if you'd like credit listed)*
+
